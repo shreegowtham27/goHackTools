@@ -4,16 +4,20 @@
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/GDNsM0F)
 
 ## Hacker tools on Go (Golang)  
-I used examples from the books "Violent Python" TJ O'Connor, "Black Hat Python" Python Programming for Hackers and Pentesters by Justin Seitz, "Security with Go" by John Daniel Leon  and [asecuritysite](https://asecuritysite.com/) 
-
-## TODO:
-examples from the book "Black Hat Go" Go Programming For Hackers and Pentesters by Tom Steele, Chris Patten, and Dan Kottmann  
+I used examples from the books & materials:
+* "Violent Python" TJ O'Connor;
+* "Black Hat Python" Python Programming for Hackers and Pentesters by Justin Seitz;
+* "Security with Go" by John Daniel Leon;
+* "Python Web Penetration Testing Cookbook" by C.Buchanan, T.Ip, B.May, D.Mound, A.Mabbit;
+* [asecuritysite](https://asecuritysite.com/); 
+* [Криптография с Python](https://vk.com/doc187366527_464874978?hash=45d8e4c6fd48820484&dl=8e644ab04c8ad6520d);  
+* "Black Hat Go" Go Programming For Hackers and Pentesters by Tom Steele, Chris Patten, and Dan Kottmann.  
 
 ## THANK YOU:
 Thanks to all authors of amazing books on information security
 
 ## Package used
-Use [dep](https://github.com/golang/dep/cmd/dep) 
+Migrating to [Go Modules](https://blog.golang.org/using-go-modules) && 
 ```bash
 sudo apt-get install libpcap-dev 
 ```
